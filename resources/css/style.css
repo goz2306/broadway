@@ -1,4 +1,33 @@
 body{
   font-style: Helvetica;
   text-align: center;
+  font-size: 14px;
+}
+h1,h2,h3{
+  font-weight: bold;
+}
+h1{
+  font-size: 70px;
+}
+h2{
+  font-size: 32px;
+}
+h3{
+  font-size: 23px;
+}
+a{
+  font-size: 18px;
+}
+.white{
+    color: white;
+}
+.sky{
+  background-image: url("../images/flat_iron_building.png");
+}
+.footer{
+  text-align: left;
+  background-color: dimgray;
+}
+.footer span{
+    font-size: 11px;
 }
